@@ -6,3 +6,6 @@ Photoshop script that takes written quotes from text file and aligns them on ima
 2. Create a photoshop file that has 2 text layers named "Text" and "WaterMark".
 3. Chose whatever you like background and aspect ratio.
 4. Run the script and find the output images in the Quotes folder.
+
+# Script in use example:
+@Citati.bg.en on Instagram

@@ -8,4 +8,4 @@ Photoshop script that takes written quotes from text file and aligns them on ima
 4. Run the script and find the output images in the Quotes folder.
 
 # Script in use example:
-@Citati.bg.en on Instagram
+@citati.bg.en on Instagram
